@@ -1,0 +1,76 @@
+body {
+	font-size: 15px;
+	font-family: 'Lexend Deca', sans-serif;
+ 	background-color: hsl(0, 0%, 95%);
+}
+
+p {
+	color: hsla(0, 0%, 100%, 0.75);
+	line-height: 26px;
+	margin-bottom: 5rem;
+}
+
+button {
+	border: solid hsl(0, 0%, 95%) 2px;
+	border-radius: 30rem 30rem;
+	padding: 12px 30px;
+	font-weight: 600;
+}
+
+h1 {
+	font-family: 'Big Shoulders Display', cursive;
+	font-size: 2.5rem;
+	color: hsl(0, 0%, 95%);
+}
+
+.container {
+	display: flex;
+	width: 60.5%;
+	margin: auto;
+	margin-top: 18rem;
+}
+
+.box {
+	/*height: 50vh;*/
+	padding: 40px 40px;
+}
+
+.left-box {
+	background-color: hsl(31, 77%, 52%);
+	border-top-left-radius: 0.5rem;
+	border-bottom-left-radius: 0.5rem;
+}
+
+.left-box button {
+	color: hsl(31, 77%, 52%);
+}
+
+.middle-box {
+	background-color: hsl(184, 100%, 22%);
+}
+
+.middle-box button {
+	color: hsl(184, 100%, 22%);
+}
+
+.right-box {
+	background-color: hsl(179, 100%, 13%);
+	border-top-right-radius: 0.5rem;
+	border-bottom-right-radius: 0.5rem;
+}
+
+.right-box button {
+	color: hsl(179, 100%, 13%);
+}
+
+button:hover {
+	background-color: hsla(0, 0%, 100%, 0);
+	color: hsl(0, 0%, 95%);
+}
+
+.attribution {
+	position: absolute;
+	bottom: 10px;
+	width: 99%;
+	text-align: center;
+}
