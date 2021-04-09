@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/flexbox-and-regular-css-eNfhJP9Q9)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://mishu-hishu.github.io/frontend-mentor-newbiew-challange/)
 
 ## My process
 
